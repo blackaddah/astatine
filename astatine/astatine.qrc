@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/astatine.png</file>
+        <file>res/systray.png</file>
+    </qresource>
+</RCC>

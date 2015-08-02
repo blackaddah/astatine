@@ -1,0 +1,7 @@
+v0.3
+-Migrate to QWebEngine (worth it? it doesn't support MP4-> Vines and some GIF)
+
+v0.2
+-Fix some links not opening
+-Better integration of the notification popups with the source code
+-Better notifications
